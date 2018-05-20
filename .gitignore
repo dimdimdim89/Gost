@@ -1,0 +1,10 @@
+*.db
+.idea/
+**/target/**
+target/**
+**/logs/**
+.gradle
+**.iml
+**.ipr
+**.iws
+**/out
